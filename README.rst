@@ -41,13 +41,13 @@ Menu is configured in data/menu.py, the first element always means page name
 second menu item title.
 
 
-Themes
+Themes:
 ------
 
 Themes require additional metadata, which is stored in data/themes.py.
 
 
-Awards
+Awards:
 ------
 
 All awards are listed in data/awards.py.
